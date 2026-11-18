@@ -1,0 +1,16 @@
+---
+title: "Mon projet de session"
+output: html_document
+---
+
+# Introduction
+
+Bienvenue sur la page de mon projet de session.
+
+# Présentation du projet
+
+Je présenterai ici mon projet réalisé dans le cadre du cours POL-6078.
+
+# Conclusion
+
+Voici la conclusion de mon projet.
